@@ -1,7 +1,5 @@
 f = io.open("log.txt","r+");
-i=0;
 while true do
-  i=i+1;
   Sleep(100);
   tmp=readFloat("06DA0434");
   f:write(tmp);
