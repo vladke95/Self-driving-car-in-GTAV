@@ -8,7 +8,7 @@ In order to use this following programs are required:
 
 How to use:
 
-1. Run Cheat engine and find car speed value in memory. After finding speed address, open cheat table LUA script (in Cheat engine) and copy paste gtaV_helper content there with changed adres in 4th row to match current speed address, then execute the script,
+1. Run Cheat engine and find car speed value in memory. After finding speed address, open cheat table LUA script (in Cheat engine) and copy paste gtaV_helper content there with changed address in 4th row to match current speed address, then execute the script,
 
 2. Run SelfDrivingAIDataColecting.ipynb Main loop cell (after loading dependencies and data) to collect screen, speed and Joystick input. Press T to toggle pause/unpause data streaming.
 
